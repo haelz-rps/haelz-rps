@@ -7,7 +7,7 @@
 
 
 # About me
-I'm currently working on IBM with Devops Engineer. I like learning about Cloud, serverless architect, linux, network, monitoring, observability, microservices, containers, culture devops.
+I'm currently working on NOS with Devops Engineer. I like learning about Cloud, serverless architect, linux, network, monitoring, observability, microservices, containers, culture devops.
 
 # Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
